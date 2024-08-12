@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.demo</groupId>
 	<artifactId>DemoJavaWebProjectWithAWS</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>DemoJavaWebProjectWithAWS</name>
 	<description>Demo Java Web Project With AWS</description>
 	<url/>
